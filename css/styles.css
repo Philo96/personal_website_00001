@@ -1,5 +1,6 @@
 div{
     background-color: black;
+    padding: 12px;
 }
 
 body{
@@ -8,4 +9,10 @@ body{
 
 h1{
     color: white;
+    margin-top: 0;
 }
+
+p{
+    color: white;
+    margin-top: 0;
+ }
