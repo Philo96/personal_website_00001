@@ -1,6 +1,7 @@
 .top-container{
     background-color: black;
-    padding: 12px;
+    position: relative;
+    padding-top: 100px;    
 }
 
 .middle-container{
@@ -30,4 +31,27 @@ p{
 
 .soft{
     text-decoration: underline red;
+}
+
+.bottom-mountain{
+    position: absolute;
+    bottom: 0;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 26%;
+    bottom: 84%;
+}
+
+
+.bottom-cloud{
+    position: absolute;
+    bottom: 50%;
+}
+
+.behind-cloud{
+    position: absolute;
+    bottom: 30%;
+    right: 30%;
 }
