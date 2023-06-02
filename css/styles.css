@@ -26,4 +26,8 @@ h1{
 
 p{
     color: white;
- }
+}
+
+.soft{
+    text-decoration: underline red;
+}
