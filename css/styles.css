@@ -5,15 +5,13 @@
 }
 
 .middle-container{
-    background-color: red;
-    width: 200px;
-    height: 200px;
+    background-color: black;
+    position: relative;
 }
 
 .bottom-container{
-    background-color: blue;
-    height: 200px;
-    width: 200px;
+    background-color: black;
+    position: relative;
 }
 
 body {
@@ -23,29 +21,35 @@ body {
 }
 
 h1{
-    color: white;
+    color: yellow;
     font-family: 'Poiret One', cursive;
     font-size: 400%;
 }
 
 h2{
-    color: white;
+    color: yellow;
     font-family: 'Courier New', Courier, monospace;
 }
 
 h3{
-    color: white;
+    color: yellow;
     font-family: 'Courier New', Courier, monospace;
 }
 
 p{
     color: white;
     font-family: 'Courier New', Courier, monospace;
+    /*font-size: 120%;*/
+}
+
+.software-engineer{
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 120%;
 }
 
-.soft{
-    text-decoration: underline #fbfc00;
+.software{
+    text-decoration: underline white;
 }
 
 .bottom-mountain{
