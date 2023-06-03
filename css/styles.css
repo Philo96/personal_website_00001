@@ -25,11 +25,13 @@ body {
 h1{
     color: white;
     font-family: 'Poiret One', cursive;
+    font-size: 400%;
 }
 
 p{
     color: white;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 120%;
 }
 
 .soft{
