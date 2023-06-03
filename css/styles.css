@@ -28,6 +28,16 @@ h1{
     font-size: 400%;
 }
 
+h2{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
 p{
     color: white;
     font-family: 'Courier New', Courier, monospace;
