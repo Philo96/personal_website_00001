@@ -55,17 +55,13 @@ hr{
     border-top: 1px solid yellow;
 }
 
-.software-engineer{
+.a-software-engineer{
     color: yellow;
     font-family: 'Courier New', Courier, monospace;
-    /*font-size: 120%;*/
+    font-size: 120%;
     position: absolute;
     bottom: 44%;
     left: 44%;
-}
-
-.software{
-    text-decoration: underline white;
 }
 
 .bottom-mountain{
@@ -78,7 +74,6 @@ hr{
     right: 26%;
     bottom: 84%;
 }
-
 
 .bottom-cloud{
     position: absolute;
