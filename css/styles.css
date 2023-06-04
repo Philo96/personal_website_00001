@@ -29,7 +29,7 @@ body {
 .i\'m-philopatear{
     color: yellow;
     font-family: 'Poiret One', cursive;
-    font-size: 900%;
+    font-size: 9rem;
     position: relative;
 }
 
@@ -58,7 +58,7 @@ hr{
 .a-software-engineer{
     color: yellow;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 120%;
+    font-size: 1.2rem;
     position: absolute;
     bottom: 44%;
     left: 44%;
