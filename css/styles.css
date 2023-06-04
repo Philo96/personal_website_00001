@@ -30,6 +30,7 @@ body {
     color: yellow;
     font-family: 'Poiret One', cursive;
     font-size: 9rem;
+    font-weight: lighter;
     position: relative;
 }
 
@@ -59,6 +60,7 @@ hr{
     color: yellow;
     font-family: 'Courier New', Courier, monospace;
     font-size: 1.2rem;
+    font-weight: lighter;
     /*position: absolute;*/
     /*bottom: 44%;*/
     /*left: 44%;*/
