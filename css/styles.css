@@ -108,3 +108,7 @@ span{
 .philopatear-abdelfady{
     margin-bottom: 1px;
 }
+
+.philopatear-abdelfady:hover{
+    color: yellow;
+}
