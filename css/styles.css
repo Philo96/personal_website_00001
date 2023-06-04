@@ -14,10 +14,10 @@
 }
 
 .bottom-container{
-    background-color: yellow;
-    position: relative;
-    padding-top: 1%;
-    padding-bottom: 0.2%;
+    background-color: black;
+    /*position: relative;*/
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 
 body {
@@ -73,7 +73,7 @@ span{
 }
 
 .social-link{
-    color: black;
+    color: yellow;
 }
 
 .mail{
@@ -92,12 +92,4 @@ span{
 
 .philo-photo{
     float: left;
-}
-
-.philopatear-abdelmaseh{
-    color: black;
-}
-
-.at{
-    color: black;
 }
