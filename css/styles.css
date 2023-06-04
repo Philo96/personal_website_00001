@@ -15,9 +15,9 @@
 
 .bottom-container{
     background-color: black;
-    /*position: relative;*/
-    padding-top: 2%;
-    padding-bottom: 2%;
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 body {
@@ -71,10 +71,24 @@ span{
 
 .social-link{
     color: yellow;
+    font-family: 'Poiret One', cursive;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+.social-link:hover{
+    color: white;
 }
 
 .mail{
     color: yellow;
+    font-family: 'Poiret One', cursive;
+    text-decoration: none;
+}
+
+.mail:hover{
+    color: white;
 }
 
 .philo{
@@ -89,4 +103,8 @@ span{
 
 .philo-photo{
     float: left;
+}
+
+.philopatear-abdelfady{
+    margin-bottom: 1px;
 }
