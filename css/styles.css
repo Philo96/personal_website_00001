@@ -84,7 +84,7 @@ span{
 .skills-paragraph{
     color: white;
     font-family: 'Courier New', Courier, monospace;
-    /*font-weight: bolder;*/
+    font-weight: bolder;
 }
 
 .philo-photo{
