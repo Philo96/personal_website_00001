@@ -89,3 +89,7 @@ span{
     font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
 }
+
+.philo-photo{
+    float: left;
+}
